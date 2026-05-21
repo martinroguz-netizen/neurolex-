@@ -1,4 +1,4 @@
-# NeuroLex Analyzer v4.2 — Autopoiesis Emocional
+# NeuroLex Analyzer v4 — Autopoiesis Emocional
 
 Sistema bidireccional de análisis emocional con clasificador **Multinomial Naive Bayes**, vectorización **TF-IDF**, generador **Markov Chain**, persistencia en **Supabase**, y un corpus autoexpandible de **2,500+ comentarios**.
 
